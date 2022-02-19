@@ -1,0 +1,30 @@
+mainDiv {
+  width: 100vw;
+  height: 100vh;
+}
+
+canvasDiv {
+  width: 100vw;
+  height: 100vh;
+}
+
+emptyDiv {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+
+filledDiv {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  color: red;
+}
+
+mazeNodeDiv {
+  display: inline;
+}
+
+mazeNode {
+  display: inline;
+}
